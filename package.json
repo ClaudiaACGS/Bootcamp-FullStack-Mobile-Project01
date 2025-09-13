@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp-fullstack-mobile-project01",
+  "version": "1.0.0",
+  "description": "<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiaACGS/Bootcamp-FullStack-Mobile-Project01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiaACGS/Bootcamp-FullStack-Mobile-Project01/issues"
+  },
+  "homepage": "https://github.com/ClaudiaACGS/Bootcamp-FullStack-Mobile-Project01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
